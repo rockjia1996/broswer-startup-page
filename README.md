@@ -1,3 +1,2 @@
-# broswer-startup-page
-## A customized broswer startup homepage
+# A based broswer homepage
 ### Say no to bloat!
