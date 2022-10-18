@@ -41,9 +41,16 @@ html, body {
 }
 
 .search-bar input:hover {
-    transform: translateY(5px);
-    transition-duration: 0.3s;
-    
     box-shadow: 0 0 5px #bababa;    
-    
 }
+
+
+
+
+
+
+
+
+
+
+
